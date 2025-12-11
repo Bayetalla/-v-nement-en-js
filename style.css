@@ -1,7 +1,9 @@
-tbody tr.gris {
+.gris th,
+.gris td {
   background-color: rgb(105, 9, 12) !important;
+  color: #fff;
 }
-
+/*
 tbody tr.gris td {
   background-color: rgb(105, 9, 12) !important;
-}
+} */
